@@ -24,7 +24,7 @@ ul {
 #navbar {
 	width:100%;
 	height:50px;
-	background-color:#049299;
+	background-color:#3498DB;
 	margin-bottom:20px;
 	display:block;
 	line-height: 30px;
@@ -54,7 +54,7 @@ ul {
 
 #navbar li a:hover {
 	background-color:white;
-	color:#1DDDE5;
+	color:#3498DB;
 }
 
 #img1 {
