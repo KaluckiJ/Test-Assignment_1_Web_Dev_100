@@ -1,0 +1,76 @@
+
+html {
+	font-family: museo-sans,sans-serif;
+	color:#706c66;
+}
+
+h1 {
+	font-size:36px;
+	font-family: museo-sans,sans-serif;
+	color:#5c554b;
+	font-weight: 300;
+}
+
+ul {
+	font-family: museo-sans,sans-serif;
+	color:#706c66;
+}
+
+#banner-image {
+	/* Custom Banner Image */
+	width:100%;
+}
+
+#navbar {
+	width:100%;
+	height:50px;
+	background-color:#3498DB;
+	margin-bottom:20px;
+	display:block;
+	line-height: 30px;
+}
+
+#navbar ul li {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    overflow:hidden;
+    font-size:20px;
+}
+
+#navbar li {
+	float:left;
+	margin-bottom: 50px;
+	margin-left: 25px;
+}
+
+#navbar li a {
+	color:#ECF0F1;
+	padding:12px;
+	display:inline-block;
+	width:75px;
+	text-align: center;
+}
+
+#navbar li a:hover {
+	background-color:white;
+	color:#3498DB;
+}
+
+#img1 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.bodycontent {
+	display: block;
+	margin-left:150px;
+	margin-right:150px;
+	font-size: 16px;
+	line-height:28px;
+}
+
+#img-container {
+	background-color:#DADADA;
+}
