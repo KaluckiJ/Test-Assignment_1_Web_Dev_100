@@ -19,6 +19,7 @@ ul {
 #banner-image {
 	/* Custom Banner Image */
 	width:100%;
+	margin-right: auto;
 }
 
 #navbar {
@@ -73,6 +74,7 @@ ul {
 
 #img-container {
 	background-color:#DADADA;
+	width:100%;
 }
 
 #inline-image1 {
