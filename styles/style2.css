@@ -1,0 +1,18 @@
+html {
+	font-size:18px;
+	font-color:black;
+}
+
+#main-body {
+	line-height: 25px;
+	background-color:#049299;
+	padding:20px;
+
+}
+
+#top-image {
+	display: block;
+	float:left;
+	margin-bottom:25px;
+	margin-right:10px;
+}

@@ -83,3 +83,38 @@ ul {
 	margin-right:10px;
 	margin-bottom:5px;
 }
+
+#footer {
+	width:100%;
+	height:50px;
+	background-color:#3498DB;
+	margin-bottom:20px;
+	display:block;
+}
+
+#footer ul li {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    overflow:hidden;
+    font-size: 14px;
+    padding-top: 15px;
+}
+
+#footer li {
+	float:left;
+	margin-bottom: 50px;
+	margin-left: 25px;
+}
+
+#footer li {
+	color:#ECF0F1;
+	padding-top:12px;
+	display:inline-block;
+	width:100%;
+}
+
+#footer li a:hover {
+	background-color:white;
+	color:#3498DB;
+}
